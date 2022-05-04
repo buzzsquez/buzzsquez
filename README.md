@@ -1,4 +1,4 @@
-Oleksandr Bartos'
+**Oleksandr Bartos'**
 
 **Front-End Developer**
 
