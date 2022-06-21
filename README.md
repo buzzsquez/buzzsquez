@@ -20,7 +20,6 @@
 <img align="left" alt="ES6" width="26px" src="https://user-images.githubusercontent.com/93146105/166651766-9ad40c8d-17c6-4096-815c-cecd15ea1e5b.png" />
 <img align="left" alt="DOM" width="26px" src="https://user-images.githubusercontent.com/93146105/166656696-d4a33546-8c6e-4d28-9d46-2a6de8c6313e.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/93146105/166658216-a6188b67-549d-44af-81c6-17f8e44966c3.svg" />
 
