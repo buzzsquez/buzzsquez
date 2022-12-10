@@ -2,8 +2,7 @@
 
 # Front-End Developer
 
-- 🔭 I’m looking for a job. 
-- 🌱 I’m deeply learning JS and React now. 
+- 🔭 Looking for a job. 
 
 ### Contact me:
 
