@@ -2,7 +2,6 @@
 
 # Front-End Developer
 
-- 🔭 Looking for a job. 
 
 ### Contact me:
 
