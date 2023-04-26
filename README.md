@@ -17,6 +17,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Styled components" width="26px" src="https://user-images.githubusercontent.com/93146105/234473657-021c02f7-177a-4e9e-860e-1eeafd84b43c.png" />
 <img align="left" alt="ES6" width="26px" src="https://user-images.githubusercontent.com/93146105/166651766-9ad40c8d-17c6-4096-815c-cecd15ea1e5b.png" />
 <img align="left" alt="DOM" width="26px" src="https://user-images.githubusercontent.com/93146105/166656696-d4a33546-8c6e-4d28-9d46-2a6de8c6313e.png" />
 <img align="left" alt="AJAX" width="26px" src="https://user-images.githubusercontent.com/93146105/166657118-08cf1d74-7510-47c1-8e35-b53bbb9eba7f.png" />
@@ -26,6 +27,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/93146105/166658216-a6188b67-549d-44af-81c6-17f8e44966c3.svg" />
 <img align="left" alt="GitLab" width="26px" src="https://user-images.githubusercontent.com/93146105/234473378-25c3944a-70dc-45fe-86bc-ee6fe8e073a8.svg" />
 
+![1_p1TndLk3UsGPBsM7qHPZIw](https://user-images.githubusercontent.com/93146105/234473657-021c02f7-177a-4e9e-860e-1eeafd84b43c.png)
 
 <br />
 <br />
