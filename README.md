@@ -20,6 +20,7 @@
 <img align="left" alt="Styled components" width="26px" height="26px"src="https://user-images.githubusercontent.com/93146105/234473891-0520d21b-d041-4afb-93d7-d9713cd715a9.svg" />
 <img align="left" alt="Storybook" width="26px" height="26px"src="https://user-images.githubusercontent.com/93146105/234474149-ec1e77ab-dc45-48d9-8e77-39217a796e8c.svg" />
 <img align="left" alt="React-hook-form" width="26px" height="26px"src="https://github.com/buzzsquez/buzzsquez/assets/93146105/e148d4dc-5f6c-43db-9eda-66b2960ea786" />
+<img align="left" alt="Zod" width="26px" height="26px"src="https://github.com/buzzsquez/buzzsquez/assets/93146105/b5f76004-f974-4960-ace6-1dfe98af3105" />
 <img align="left" alt="Jest" width="26px" height="26px"src="https://user-images.githubusercontent.com/93146105/234474607-cd623f7e-b29c-4c77-8898-e69f7f44cdd4.png" />
 <img align="left" alt="ES6" width="26px" src="https://user-images.githubusercontent.com/93146105/166651766-9ad40c8d-17c6-4096-815c-cecd15ea1e5b.png" />
 <img align="left" alt="DOM" width="26px" src="https://user-images.githubusercontent.com/93146105/166656696-d4a33546-8c6e-4d28-9d46-2a6de8c6313e.png" />
