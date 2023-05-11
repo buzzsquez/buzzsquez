@@ -23,10 +23,11 @@
 <br />
 <br />
 
-<img align="left" alt="Jest" width="26px" height="26px"src="https://user-images.githubusercontent.com/93146105/234474607-cd623f7e-b29c-4c77-8898-e69f7f44cdd4.png" />
 <img align="left" alt="DOM" width="26px" src="https://user-images.githubusercontent.com/93146105/166656696-d4a33546-8c6e-4d28-9d46-2a6de8c6313e.png" />
 <img align="left" alt="Zod" width="26px" height="26px"src="https://github.com/buzzsquez/buzzsquez/assets/93146105/b5f76004-f974-4960-ace6-1dfe98af3105" />
 <img align="left" alt="ES6" width="26px" height="26px" src="https://user-images.githubusercontent.com/93146105/166651766-9ad40c8d-17c6-4096-815c-cecd15ea1e5b.png" />
+
+<img align="left" alt="Jest" width="26px" height="26px"src="https://user-images.githubusercontent.com/93146105/234474607-cd623f7e-b29c-4c77-8898-e69f7f44cdd4.png" />
 <img align="left" alt="AJAX" width="26px" src="https://user-images.githubusercontent.com/93146105/166657118-08cf1d74-7510-47c1-8e35-b53bbb9eba7f.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
