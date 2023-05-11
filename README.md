@@ -19,7 +19,6 @@
 <img align="left" alt="Styled components" width="26px" height="26px"src="https://user-images.githubusercontent.com/93146105/234473891-0520d21b-d041-4afb-93d7-d9713cd715a9.svg" />
 <img align="left" alt="Storybook" width="26px" height="26px"src="https://user-images.githubusercontent.com/93146105/234474149-ec1e77ab-dc45-48d9-8e77-39217a796e8c.svg" />
 <img align="left" alt="React-hook-form" width="26px" height="26px"src="https://github.com/buzzsquez/buzzsquez/assets/93146105/e148d4dc-5f6c-43db-9eda-66b2960ea786" />
-<br />
 <img align="left" alt="Jest" width="26px" height="26px"src="https://user-images.githubusercontent.com/93146105/234474607-cd623f7e-b29c-4c77-8898-e69f7f44cdd4.png" />
 <img align="left" alt="AJAX" width="26px" src="https://user-images.githubusercontent.com/93146105/166657118-08cf1d74-7510-47c1-8e35-b53bbb9eba7f.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
