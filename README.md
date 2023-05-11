@@ -11,7 +11,6 @@
 
 ### Languages and Tools:
 
-
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://user-images.githubusercontent.com/93146105/166652865-25694edd-1671-4e89-995b-39fddfdc5186.png" />
 <img align="left" alt="Redux" width="26px" src="https://user-images.githubusercontent.com/93146105/196131814-f0762548-9181-45cb-b325-52c1e8c48285.png" />
@@ -28,7 +27,7 @@
 <br />
 <br />
 
-<img align="left" alt="ES6" width="26px" src="https://user-images.githubusercontent.com/93146105/166651766-9ad40c8d-17c6-4096-815c-cecd15ea1e5b.png" />
+<img align="left" alt="ES6" width="26px" height="26px" src="https://user-images.githubusercontent.com/93146105/166651766-9ad40c8d-17c6-4096-815c-cecd15ea1e5b.png" />
 <img align="left" alt="AJAX" width="26px" src="https://user-images.githubusercontent.com/93146105/166657118-08cf1d74-7510-47c1-8e35-b53bbb9eba7f.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
