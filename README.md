@@ -27,7 +27,6 @@
 <img align="left" alt="AJAX" width="26px" src="https://user-images.githubusercontent.com/93146105/166657118-08cf1d74-7510-47c1-8e35-b53bbb9eba7f.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/93146105/166658216-a6188b67-549d-44af-81c6-17f8e44966c3.svg" />
 <img align="left" alt="GitLab" width="26px" src="https://user-images.githubusercontent.com/93146105/234473378-25c3944a-70dc-45fe-86bc-ee6fe8e073a8.svg" />
 
 <br />
