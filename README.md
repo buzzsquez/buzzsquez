@@ -11,6 +11,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Next" width="26px" src="https://github.com/buzzsquez/buzzsquez/assets/93146105/5aa738c8-0cfb-482d-90cc-dde6b386dd28" />
 <img align="left" alt="TypeScript" width="26px" src="https://user-images.githubusercontent.com/93146105/166652865-25694edd-1671-4e89-995b-39fddfdc5186.png" />
 <img align="left" alt="Redux" width="26px" src="https://user-images.githubusercontent.com/93146105/196131814-f0762548-9181-45cb-b325-52c1e8c48285.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -28,6 +29,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/93146105/166658216-a6188b67-549d-44af-81c6-17f8e44966c3.svg" />
 <img align="left" alt="GitLab" width="26px" src="https://user-images.githubusercontent.com/93146105/234473378-25c3944a-70dc-45fe-86bc-ee6fe8e073a8.svg" />
+![nextjs-icon](https://github.com/buzzsquez/buzzsquez/assets/93146105/5aa738c8-0cfb-482d-90cc-dde6b386dd28)
 
 <br />
 <br />
