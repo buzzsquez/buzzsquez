@@ -1,6 +1,6 @@
 ## Oleksandr Bartos'
 
-# Front-End Developer
+# Software engineer
 
 ### Contact me:
 
