@@ -10,7 +10,7 @@
 
 ### My Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,lit,js,ts,html,css,sass,styledcomponents,tailwind,bitbucket,figma,git,github,gitlab,jest,netlify,redux,vite,vscode&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,lit,js,ts,html,css,sass,styledcomponents,tailwind,vite,redux,jest,git,github,gitlab,bitbucket,netlify,figma,vscode&perline=10)](https://skillicons.dev)
 
 <br />
 <br />
