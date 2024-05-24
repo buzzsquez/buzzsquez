@@ -1,5 +1,5 @@
-## Oleksandr Bartos'
-# Software engineer
+# Oleksandr Bartos'
+## Software engineer
 
 ### Contact me:
 
