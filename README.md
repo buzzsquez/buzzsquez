@@ -1,5 +1,4 @@
 ## Oleksandr Bartos'
-
 # Software engineer
 
 ### Contact me:
@@ -17,8 +16,3 @@
 
 [mail]: mailto:buzzsquez@gmail.com
 [telegram]:https://t.me/Buzzsquez
-
-<!---
-buzzsquez/buzzsquez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
