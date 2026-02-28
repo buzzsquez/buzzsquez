@@ -1,5 +1,5 @@
 # Oleksandr Bartos'
-## Software engineer
+## Senior Frontend Engineer
 
 ### Contact me:
 
