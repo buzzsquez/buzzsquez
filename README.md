@@ -7,9 +7,9 @@
 
 <br />
 
-### My Tech Stack:
+### My Main Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,lit,ts,js,html,css,sass,styledcomponents,tailwind,vite,redux,jest,git,github,gitlab,bitbucket,netlify,figma,vscode&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css&perline=10)](https://skillicons.dev)
 
 <br />
 <br />
