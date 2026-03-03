@@ -11,8 +11,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css&perline=10)](https://skillicons.dev)
 
-<br />
-<br />
-
 [mail]: mailto:buzzsquez@gmail.com
 [telegram]:https://t.me/Buzzsquez
